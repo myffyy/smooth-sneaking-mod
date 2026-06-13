@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "smoothsneakclient",
+    "name": "Smooth Sneak Client",
+    "description": "Client-side visual-only smooth third-person sneak animation for Minecraft Forge 1.8.9.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["myffy"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

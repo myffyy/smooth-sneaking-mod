@@ -1,6 +1,6 @@
 # Smooth Sneak Client
 
-<video src="assets/show.mp4" autoplay muted loop playsinline controls width="100%"></video>
+![Smooth Sneak Client demo](assets/show.gif)
 
 Client-only Forge mod for Minecraft 1.8.9 that smooths the third-person sneak
 render animation. It does not change movement, hitboxes, packets, sneak state or

@@ -36,3 +36,10 @@ build/libs/smooth-sneak-client-1.8.9-1.1.0.jar
 
 Put that jar only into the client `mods` folder. It is marked client-side only
 and is intended to work on multiplayer servers without requiring server install.
+
+## License
+
+Copyright (c) 2026 Myffy. All rights reserved.
+
+This project is proprietary and may not be used, copied, modified, or
+redistributed without prior written permission.
